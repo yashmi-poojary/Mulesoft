@@ -1,2 +1,2 @@
 # Steps to start the project
-open ```inserting.php``` in the browser
+Open ```insert.php``` in the browser
